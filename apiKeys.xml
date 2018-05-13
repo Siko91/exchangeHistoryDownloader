@@ -1,0 +1,10 @@
+<keyCollection>
+    <key type="poloniex"
+        apikey="AAAAAAAA-AAAAAAAA-AAAAAAAA-AAAAAAAA"
+        secret="abcde_______________abcde"
+    />
+    <key type="poloniex"
+        apikey="BBBBBBBB-BBBBBBBB-BBBBBBBB-BBBBBBBB"
+        secret="abcde_______________abcde"
+    />
+</keyCollection>
