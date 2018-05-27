@@ -10,9 +10,5 @@ def keyToObj(k):
 def parseKeys(path):
     DOMTree = xml.dom.minidom.parse(path)
     dom = DOMTree.documentElement
-    keys = dom.getElementsByTagName("key")
-    result = []
-    for k in keys:
-        result.append(keyToObj(k))
-
-    return result
+    key = dom.getElementsByTagName("key")[0]
+    return keyToObj(key)

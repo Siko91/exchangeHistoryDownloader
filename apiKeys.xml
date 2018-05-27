@@ -1,10 +1,6 @@
-<keyCollection>
-    <key type="poloniex"
-        apikey="AAAAAAAA-AAAAAAAA-AAAAAAAA-AAAAAAAA"
-        secret="abcde_______________abcde"
+<apikeys>
+    <key type="binance"
+        apikey="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+        secret="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
     />
-    <key type="poloniex"
-        apikey="BBBBBBBB-BBBBBBBB-BBBBBBBB-BBBBBBBB"
-        secret="abcde_______________abcde"
-    />
-</keyCollection>
+</apikeys>
